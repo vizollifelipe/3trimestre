@@ -1,5 +1,6 @@
 # Turmal-3tri
 pemsamento computacional - 1° ano;
-#### sou aluno de pemsamen computasional de lindoeste -pr do colegio estadual do campo ASanta luzia
-#### Sou aluno, no colegio estadual do campo samta luzia, vitoria;  
-##
+#### sou aluno de pemsamen computasional de lindoeste -PR do Colegio Estadual do Campo Santa Luzia
+#### meu nome é luiz felipe vizolli e tenho 16 anos  
+#### Estou apremdendo muito com o pemsamento conputasional mas é muito difisil 
+#### meu projeto esta falamdo sobre
