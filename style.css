@@ -1,5 +1,5 @@
 body  {
-     background-color: #E4f1ff  
+     background-color: #be6122  
 }
 
 #titulo {
@@ -8,12 +8,19 @@ body  {
     text-align: center;
 }
 
-.testo {
+.texto {
     color: #362fd9;
     font-size: 30px;
     text-align: justify; 
+}
 
-
+#imagem{
+    height: 150px; 
+    width: 150px;
+    padding: 5px;
+    margin: 5px; 
+    border: 2px groove  #362FD9;
+    border-radius: 20px;
 
 
 
