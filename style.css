@@ -3,24 +3,23 @@ body  {
 }
 
 #titulo {
-    color: #54f50a;
+    color: #111111;
     font-size: 50px;
     text-align: center;
 }
 
 .texto {
-    color: #2fd938;
+    color: #141414;
     font-size: 30px;
     text-align: justify; 
 }
 
 #imagem{
-    height: 150px; 
-    width: 150px;
+    height: 200px; 
+    width: 200px;
     padding: 5px;
     margin: 5px; 
     border: 2px groove  #492fd9;
     border-radius: 20px;
-
 }
 
