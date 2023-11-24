@@ -1,15 +1,17 @@
 body  {
-     background-colar:   
+     background-color: #E4f1ff  
 }
 
+#titulo {
+    color: #0E21A0;
+    font-size: 50px;
+    text-align: center;
+}
 
-
-
-
-
-
-
-
+.testo {
+    color: #362fd9;
+    font-size: 30px;
+    text-align: justify; 
 
 
 
